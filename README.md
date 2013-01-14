@@ -4,6 +4,7 @@ batchtagger
 Command line program which tags multimedia files based on taglib.
 
 Dependencies:
+
 Taglib for reading/writing files.
 
 KDE* 
