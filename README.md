@@ -5,6 +5,7 @@ Command line program which tags multimedia files based on taglib.
 
 Dependencies:
 Taglib for reading/writing files.
+
 KDE* 
 
 *Note that the program uses KCmdLineArgs for parsing options. This dependencie is easily avoidable, 
